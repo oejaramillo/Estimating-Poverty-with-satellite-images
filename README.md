@@ -1,1 +1,1 @@
-# Estimating-Poverty-with-satellite-images
+# Estimating Poverty with satellite images
