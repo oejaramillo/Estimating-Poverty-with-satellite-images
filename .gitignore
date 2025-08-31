@@ -1,2 +1,5 @@
 amb
 .env
+sentinel/quito_satellite_images/uint8
+sentinel/quito_satellite_images/uint16
+sentinel/quito_satellite_images_pruebas
